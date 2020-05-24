@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Sorter\Strategy.csproj", "{B9100723-3ACA-4856-959A-6234B1A35E00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{A63427FD-1E60-4226-A497-C7FB75B6160E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{BF00D868-E110-4F1D-B4B1-49EB63B5E3F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +23,13 @@ Global
 		{B9100723-3ACA-4856-959A-6234B1A35E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9100723-3ACA-4856-959A-6234B1A35E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9100723-3ACA-4856-959A-6234B1A35E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A63427FD-1E60-4226-A497-C7FB75B6160E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63427FD-1E60-4226-A497-C7FB75B6160E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63427FD-1E60-4226-A497-C7FB75B6160E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63427FD-1E60-4226-A497-C7FB75B6160E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF00D868-E110-4F1D-B4B1-49EB63B5E3F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF00D868-E110-4F1D-B4B1-49EB63B5E3F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF00D868-E110-4F1D-B4B1-49EB63B5E3F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF00D868-E110-4F1D-B4B1-49EB63B5E3F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
