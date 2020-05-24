@@ -3,7 +3,7 @@ namespace Observer
 {
     public class Dad
     {
-        public Dad()
+        public Dad() 
         {
         }
     }
